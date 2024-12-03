@@ -4,4 +4,4 @@
 
 ## 2D drafts 
 ![light-background](https://github.com/susiesyli/scentscape-mapping/blob/7ed5218e2ae0ff04e9658196c749dea48f5c7ed5/images/sensory%20map%20boston%20WIP3!.jpg)
-![dark-background](https://github.com/susiesyli/scentscape-mapping/blob/a0bd7edb87b226cbfa310545c76b4a6793847c77/images/sensory-map-color.svg)
+![dark-background](https://github.com/susiesyli/scentscape-mapping/blob/51d980a4c86b72cdb3b6b82d11efd7c75d067d25/images/sensory-map-color.jpg)
