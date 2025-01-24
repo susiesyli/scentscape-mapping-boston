@@ -8,3 +8,7 @@
 made with initial pen and paper sketch, then in illustrator 
 ![light-background](https://github.com/susiesyli/scentscape-mapping/blob/7efe12233e9fb3b384bfd8a656d25579f84a7b18/images/light-preview.png)
 ![dark-background](https://github.com/susiesyli/scentscape-mapping/blob/51d980a4c86b72cdb3b6b82d11efd7c75d067d25/images/sensory-map-color.jpg)
+
+
+## Data
+[descriptor dataset](https://github.com/susiesyli/openpom/tree/main/openpom/data)
