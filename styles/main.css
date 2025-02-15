@@ -1,5 +1,6 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Helvetica', sans-serif;
+    font-weight: lighter;
     margin: 0;
     padding: 0;
     background-color: #f8f8f8;
@@ -12,9 +13,14 @@ body {
     padding: 20px;
 }
 h1 {
+    font-family: 'Helvetica', sans-serif;
+    font-weight: lighter;
     font-size: 28px;
     letter-spacing: 2px;
-    font-weight: bold;
+}
+h3{
+    font-family: 'Helvetica', sans-serif;
+    font-weight: lighter;
 }
 .image-container {
     margin-top: 20px;
@@ -31,6 +37,12 @@ img {
     margin-top: 15px;
     font-size: 16px;
     color: #555;
+}
+footer {
+    margin-top: 50px;
+    font-size: 14px;
+    color: #777;
+    padding-bottom: 40px;
 }
 a:link {
     color: #777;
@@ -49,10 +61,5 @@ a:hover {
 
 /* selected link */
 a:active {
-    color: #777;
-}
-footer {
-    margin-top: 50px;
-    font-size: 14px;
     color: #777;
 }
