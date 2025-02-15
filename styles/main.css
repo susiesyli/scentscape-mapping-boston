@@ -63,3 +63,21 @@ a:hover {
 a:active {
     color: #777;
 }
+
+/* Responsive Design for iPhones */
+@media screen and (max-width: 768px) {
+    .container {
+        max-width: 90%;
+        padding: 15px;
+    }
+    h1 {
+        font-size: 24px;
+    }
+    .caption {
+        font-size: 14px;
+    }
+    footer {
+        font-size: 12px;
+        padding-bottom: 20px;
+    }
+}
